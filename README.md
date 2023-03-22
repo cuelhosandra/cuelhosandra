@@ -6,7 +6,6 @@
 - 🙆‍♀️ Em busca de oportunidades na área DEV
 - ☕ Potencializando conhecimentos em Java
 
-#
 
 <div>  
   <a href="https://www.linkedin.com/in/sandra-coelho-38a08317a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
