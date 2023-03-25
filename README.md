@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/sandra-coelho-38a08317a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://wa.me/5547991104702" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
   <a href="mailto:sandracoelhobr2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://cuelhosandra.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio--%23333?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
   
 </div>
 
