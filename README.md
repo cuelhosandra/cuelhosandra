@@ -2,8 +2,7 @@
 
 - 🚩 Blumenau/SC
 - ✍ Segunda edição da turma de Java na +DEVS2BLU
-- 📗 Estudante de Análise e Desenvolvimento de Sistemas
-- 🙆‍♀️ Em busca da primeira oportunidade na área DEV
+- 🙆‍♀️ Desenvolvedora Trainee na Spincare
 - ☕ Potencializando conhecimentos em Java
 
 
