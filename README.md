@@ -2,7 +2,7 @@
 
 - 🚩 Blumenau/SC
 - ✍ Segunda edição da turma de Java na +DEVS2BLU
-- 🙆‍♀️ Desenvolvedora Júnior na Spincare
+- 🙆‍♀️ Desenvolvedora na Spincare
 - ☕ Potencializando conhecimentos em Java
 
 
